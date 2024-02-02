@@ -4,6 +4,12 @@
 
 build-a-README simplifies the process of creating basic README files for your projects. This command-line application uses the Inquirer package to dynamically generate a professional README.md file based on your input.
 
+- **Photo Preview:**
+
+  ![Link to Photo](screenshot-build-a-readme.png)
+  
+- **Video:** [Link to Video](https://drive.google.com/file/d/1sSYI_zIvlBiwRb7L-aF9qT8O3Jwx8IBt/view)
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -16,16 +22,19 @@ build-a-README simplifies the process of creating basic README files for your pr
 ## Installation
 
 1 - Clone the repository to your local machine.
+
 2 - Execute npm install to install the necessary dependencies.
+
 3 - Launch the application with node index.js to initiate the README generation process.
 
 ## Usage
 
 This tool saves time, ensures consistency, and enhances the user-friendliness of your projects by automating the documentation process.
 
+
 ## License
 
-MIT
+This project is licensed under the [MIT License](License).
 
 ## Contributing
 
